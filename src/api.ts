@@ -1,4 +1,3 @@
-import { io } from "socket.io-client";
 import useStore from "./store";
 
 async function fetchProviders() {
